@@ -7,4 +7,4 @@ Snake AI was built using the python game development library - PyGame.
 
 
 ## Demo ##
-!snakeai.gif
+!'snakeai.gif'
